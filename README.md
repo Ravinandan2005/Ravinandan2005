@@ -1,6 +1,6 @@
 ## 𝐇𝐢𝐢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 𝐈'𝐦 [ 𝓙. 𝓝. 𝓡𝓪𝓿𝓲𝓷𝓪𝓷𝓭𝓪𝓷 🙂](https://t.me/technomindzyt)
 
-<p align="left"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/36da60d70f35a8ef9aca4.jpg" width="1000"></a></p>
+<p align="left"><a href="https://t.me/technomindzyt"><img src="https://github.com/user-attachments/assets/246b4331-5572-448c-9474-f851c7c5b16d" height=1000></a></p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I'm+Ravinandan+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Developer+and+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Passionate+about+coding;" alt="Ravi" width="650" height="55">
 
