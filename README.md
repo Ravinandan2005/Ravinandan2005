@@ -2,7 +2,13 @@
 
 <p align="left"><a href="https://t.me/technomindzyt"><img src="https://github.com/user-attachments/assets/246b4331-5572-448c-9474-f851c7c5b16d" height=1000></a></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I'm+Ravinandan+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Developer+and+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Passionate+about+coding;" alt="Ravi" width="650" height="55">
+<a href="https://github.com/ravinandan2005/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+welcome+to+my+GitHub+%F0%9F%91%8B;I%27m+a+passionate+programmer+and+a+student%0A;Exploring+tech+and+building+cool+projects%0A;Learning+new+things+every+day+%F0%9F%92%BB&center=true&width=500&height=50">
+</a>
+
+
+
+
 
 ---
 
@@ -78,14 +84,27 @@ Hi, I'm **Ravinandan**, a passionate developer and a student from **India**. I a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ravinandan2005}/count.svg"/></p>
+  <b style="font-size: 2em; color: #2E8B57;">Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b>  
+  <img align="center" src="https://profile-counter.glitch.me/{ravinandan2005}/count.svg" />
 </p>
 
-![RAVINANDAN Git Stats](https://github-readme-stats.vercel.app/api?username=ravinandan2005&include_all_commits=true&count_private=true&theme=highcontrast)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravinandan2005&include_all_commits=true&count_private=true&theme=blue-green" alt="RAVINANDAN Git Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravinandan2005&theme=gruvbox&hide_border=true" />
+</p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravinandan2005&theme=highcontrast)](https://github.com/Ravinandan2005/github-readme-streak-stats)
+
+<p align="center">
+  <a href="https://github.com/ravinandan2005">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinandan2005&theme=blue-green&layout=compact" alt="Top Languages" />
+  </a>
+</p>
+
+
 
 
 ---
@@ -109,14 +128,20 @@ Hi, I'm **Ravinandan**, a passionate developer and a student from **India**. I a
 
 ---
 
-## 🔗 Let's Connect!
+<h1 align="center"><b>🔗 Let's Connect!</b></h1>
+   
+<br>
+<br>
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/ravinandan2005)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-n-ravinandan-969bbb24a/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/technomindzyt)  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/technomindzyt)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ravinandan2005@gmail.com)
-
+<div align="center">
+   <a href="https://github.com/ravinandan2005" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+   <a href="https://www.instagram.com/technomindzyt" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+   <a href="https://t.me/technomindzyt" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+   <a href="https://wa.me/6382059012" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+   <a href="https://www.linkedin.com/in/j-n-ravinandan-969bbb24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN"/></a>
+  <a href="mailto:ravinandan2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="GMail"/></a>
+  </div>
+  
 ---
 
 ## 💬 Languages and Tools I Love
