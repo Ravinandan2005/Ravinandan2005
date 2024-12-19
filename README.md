@@ -1,6 +1,6 @@
 ## 𝐇𝐢𝐢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 𝐈'𝐦 [ 𝓙. 𝓝. 𝓡𝓪𝓿𝓲𝓷𝓪𝓷𝓭𝓪𝓷 🙂](https://t.me/technomindzyt)
 
-<p align="left"><a href="https://t.me/technomindzyt"><img src="https://github.com/user-attachments/assets/246b4331-5572-448c-9474-f851c7c5b16d" height=1000></a></p>
+<p align="left"><a href="https://t.me/technomindzyt"><img src="https://github.com/user-attachments/assets/a504b8ba-c371-42c7-afc2-1e2677e1a0d3"></a></p>
 
 <a href="https://github.com/ravinandan2005/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hey+there%2C+welcome+to+my+GitHub+%F0%9F%91%8B;I%27m+a+passionate+programmer+and+a+student%0A;Exploring+tech+and+building+cool+projects%0A;Learning+new+things+every+day+%F0%9F%92%BB&center=true&width=500&height=50">
@@ -78,6 +78,14 @@ Hi, I'm **Ravinandan**, a passionate developer and a student from **India**. I a
 
 ### **Portfolio Website**  
 - Designed a personal portfolio and blog site using **HTML5**, **CSS3**, and **JavaScript** to showcase skills, projects, and personal blogs.
+
+### **Gesture_Media_Controller**  
+- A project that uses **gesture recognition** to control media playback (e.g., play, pause, volume control) using hand movements.  
+- Technologies used: **Python, OpenCV**
+
+### **RealTime_bg-changer**  
+- A project that changes the background in real-time during video calls or live streaming using **OpenCV**.  
+- Technologies used: **Python, OpenCV**
 
 ---
 
