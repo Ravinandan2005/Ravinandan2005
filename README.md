@@ -92,31 +92,22 @@ Hi, I'm **Ravinandan**, a passionate developer and a student from **India**. I a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <b style="font-size: 2em; color: #2E8B57;">Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b>  
-  <img align="center" src="https://profile-counter.glitch.me/{ravinandan2005}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=ravinandan2005&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravinandan2005&include_all_commits=true&count_private=true&theme=blue-green" alt="RAVINANDAN Git Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravinandan2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ravi's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravinandan2005&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravinandan2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-
 
 <p align="center">
-  <a href="https://github.com/ravinandan2005">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravinandan2005&theme=blue-green&layout=compact" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravinandan2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-
-
 
 ---
-
 ## 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
