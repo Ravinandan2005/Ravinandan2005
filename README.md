@@ -137,8 +137,8 @@ Hi, I'm **Ravinandan**, a passionate developer and a student from **India**. I a
    <a href="https://www.instagram.com/technomindzyt" target="_blank"><img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
    <a href="https://t.me/technomindzyt" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
    <a href="https://wa.me/6382059012" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-   <a href="https://www.linkedin.com/in/j-n-ravinandan-969bbb24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN"/></a>
-  <a href="mailto:ravinandan2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="GMail"/></a>
+   <a href="https://www.linkedin.com/in/ravinandan2005" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIN"/></a>
+  <a href="mailto:ravinandanjn2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="GMail"/></a>
   </div>
   
 ---
